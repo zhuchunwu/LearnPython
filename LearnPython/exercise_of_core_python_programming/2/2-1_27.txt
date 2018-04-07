@@ -1,0 +1,8 @@
+>>> a = 123
+>>> a
+123
+>>> print a
+123
+>>> print "My name is %s, I'm %d years old" % ('Michael', 28)
+My name is Michael, I'm 28 years old
+>>> 
